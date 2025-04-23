@@ -1,10 +1,11 @@
 # Google-Play-Store-App-Review-Analysis
 
-# This exploratory data analysis (EDA) project focuses on analyzing the Google Play Store apps data and customer reviews dataset. The goal is to derive actionable insights that can help app-making businesses succeed in the Android market.
+# Project Summary
+This exploratory data analysis (EDA) project focuses on analyzing the Google Play Store apps data and customer reviews dataset. The goal is to derive actionable insights that can help app-making businesses succeed in the Android market.
 
 The Google Play Store data includes information about various apps such as their names, categories, average user ratings, number of reviews, size, number of installs, pricing, content rating, genres and more. This dataset provides a comprehensive overview of the apps available on the Play Store. The user reviews dataset contains customer reviews for different apps. It includes the app name, sentiment of the review (positive, neutral, or negative), sentiment polarity (numerical score indicating the review's positivity or negativity) and sentiment subjectivity (score indicating the review's objectivity or subjectivity).
 
-By analyzing these datasets, valuable insights can be obtained. Some potential areas of analysis include:
+# By analyzing these datasets, valuable insights can be obtained. Some potential areas of analysis include:
 
 # App Categories: 
 Identifying the most popular app categories can help developers understand the market demand and focus their efforts accordingly.
